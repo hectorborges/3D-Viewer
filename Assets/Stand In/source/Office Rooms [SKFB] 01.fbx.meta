@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: db0bef24e210b814e8c98d42686ae293
+timeCreated: 1532569357
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 01j7 monit
+    100002: 01j7 monit001
+    100004: 01j7 tecla
+    100006: 01j7 tecla001
+    100008: 01j7-mous0
+    100010: 01j7-mous001
+    100012: 01j7-mouse
+    100014: 01j7-mouse001
+    100016: Archinteriors8_01_244
+    100018: Archinteriors8_01_245
+    100020: Archinteriors8_01_246
+    100022: Archinteriors8_01_247
+    100024: Archinteriors8_01_248
+    100026: Archinteriors8_01_249
+    100028: Archinteriors8_01_250
+    100030: Archinteriors8_01_251
+    100032: Archinteriors8_01_252
+    100034: Archinteriors8_01_253
+    100036: Archinteriors8_01_254
+    100038: Archinteriors8_01_255
+    100040: Archinteriors8_01_256
+    100042: Archinteriors8_01_257
+    100044: Archinteriors8_01_258
+    100046: Archinteriors8_01_259
+    100048: Archinteriors8_01_260
+    100050: Archinteriors8_01_261
+    100052: Archinteriors8_01_262
+    100054: Archinteriors8_01_263
+    100056: Archinteriors8_01_264
+    100058: Archinteriors8_01_265
+    100060: Archinteriors8_01_266
+    100062: Archinteriors8_01_267
+    100064: Archinteriors8_01_268
+    100066: Archinteriors8_01_269
+    100068: Archinteriors8_01_270
+    100070: Archinteriors8_01_271
+    100072: Archinteriors8_01_272
+    100074: Archinteriors8_01_273
+    100076: Archinteriors8_01_274
+    100078: Archinteriors8_01_275
+    100080: Archinteriors8_01_276
+    100082: Archinteriors8_01_277
+    100084: Archinteriors8_01_278
+    100086: Archinteriors8_01_279
+    100088: Archinteriors8_01_280
+    100090: Archinteriors8_01_281
+    100092: Archinteriors8_01_282
+    100094: Archinteriors8_01_283
+    100096: Archinteriors8_01_284
+    100098: Archinteriors8_01_285
+    100100: Archinteriors8_01_286
+    100102: Archinteriors8_01_287
+    100104: Archinteriors8_01_288
+    100106: Archinteriors8_01_289
+    100108: Archinteriors8_01_290
+    100110: Archinteriors8_01_291
+    100112: Archinteriors8_01_292
+    100114: Archinteriors8_01_293
+    100116: Archinteriors8_01_294
+    100118: Archinteriors8_01_295
+    100120: Archinteriors8_01_296
+    100122: Archinteriors8_01_297
+    100124: Archinteriors8_01_298
+    100126: Archinteriors8_01_299
+    100128: Archinteriors8_01_300
+    100130: Archinteriors8_01_301
+    100132: Archinteriors8_01_302
+    100134: Archinteriors8_01_303
+    100136: Archinteriors8_01_304
+    100138: Archinteriors8_01_305
+    100140: Archinteriors8_01_306
+    100142: Archinteriors8_01_307
+    100144: Archinteriors8_01_308
+    100146: Archinteriors8_01_309
+    100148: Archinteriors8_01_310
+    100150: Archinteriors8_01_311
+    100152: Archinteriors8_01_312
+    100154: Archinteriors8_01_313
+    100156: Archinteriors8_01_314
+    100158: Archinteriors8_01_315
+    100160: Box002
+    100162: Box006
+    100164: Box007
+    100166: Box008
+    100168: Box323462
+    100170: Box323465
+    100172: Box323466
+    100174: Box323467
+    100176: Box323468
+    100178: Box323469
+    100180: Box323470
+    100182: Box323471
+    100184: Box323472
+    100186: Box323473
+    100188: Box323474
+    100190: Box323475
+    100192: Box323476
+    100194: Box323477
+    100196: Box323478
+    100198: Box323479
+    100200: Box323480
+    100202: Box323481
+    100204: Box323482
+    100206: Box323483
+    100208: Box323484
+    100210: Box323485
+    100212: Box323508
+    100214: Box323509
+    100216: Box323510
+    100218: Box323511
+    100220: Box323512
+    100222: Box323513
+    100224: Box323514
+    100226: Box323515
+    100228: Box323516
+    100230: Box323517
+    100232: Box323518
+    100234: Box323519
+    100236: Box323520
+    100238: Box323521
+    100240: Box323522
+    100242: Box323524
+    100244: Box323525
+    100246: Box323526
+    100248: Box323527
+    100250: Box323528
+    100252: Box323529
+    100254: Box323530
+    100256: Box323531
+    100258: Box323532
+    100260: Box323533
+    100262: Box323534
+    100264: Box323535
+    100266: Box323536
+    100268: Box323537
+    100270: Box323538
+    100272: Box323539
+    100274: Box323540
+    100276: Box323541
+    100278: Box323542
+    100280: Box323543
+    100282: Box323544
+    100284: Box323545
+    100286: Box323546
+    100288: Box323547
+    100290: Box323548
+    100292: Box323549
+    100294: Box323550
+    100296: Box323551
+    100298: Box323552
+    100300: Box323553
+    100302: Box323555
+    100304: Box323557
+    100306: Box323558
+    100308: Box323560
+    100310: Group001
+    100312: Group004
+    100314: Line001
+    100316: Line002
+    100318: Line003
+    100320: Line004
+    100322: Line005
+    100324: Line007
+    100326: Line008
+    100328: Line009
+    100330: obj_008
+    100332: obj_009
+    100334: obj_01
+    100336: obj_010
+    100338: obj_011
+    100340: obj_012
+    100342: obj_013
+    100344: obj_014
+    100346: obj_02
+    100348: obj_03
+    100350: obj_04
+    100352: obj_05
+    100354: obj_06
+    100356: obj_07
+    100358: //RootNode
+    100360: Plane001
+    100362: Plane002
+    100364: Plane004
+    100366: Plane005
+    100368: Plane006
+    100370: tz 001
+    100372: tz 002
+    100374: VRayLight017
+    100376: Wall 003
+    100378: Wall 004
+    100380: Wall 005
+    100382: Wall 007
+    100384: Wall 008
+    100386: Wall 009
+    100388: Wall 011
+    100390: Wall 015
+    100392: Wall 018
+    100394: Wall 019
+    100396: Wall 020
+    100398: Wall 021
+    100400: Wall 022
+    400000: 01j7 monit
+    400002: 01j7 monit001
+    400004: 01j7 tecla
+    400006: 01j7 tecla001
+    400008: 01j7-mous0
+    400010: 01j7-mous001
+    400012: 01j7-mouse
+    400014: 01j7-mouse001
+    400016: Archinteriors8_01_244
+    400018: Archinteriors8_01_245
+    400020: Archinteriors8_01_246
+    400022: Archinteriors8_01_247
+    400024: Archinteriors8_01_248
+    400026: Archinteriors8_01_249
+    400028: Archinteriors8_01_250
+    400030: Archinteriors8_01_251
+    400032: Archinteriors8_01_252
+    400034: Archinteriors8_01_253
+    400036: Archinteriors8_01_254
+    400038: Archinteriors8_01_255
+    400040: Archinteriors8_01_256
+    400042: Archinteriors8_01_257
+    400044: Archinteriors8_01_258
+    400046: Archinteriors8_01_259
+    400048: Archinteriors8_01_260
+    400050: Archinteriors8_01_261
+    400052: Archinteriors8_01_262
+    400054: Archinteriors8_01_263
+    400056: Archinteriors8_01_264
+    400058: Archinteriors8_01_265
+    400060: Archinteriors8_01_266
+    400062: Archinteriors8_01_267
+    400064: Archinteriors8_01_268
+    400066: Archinteriors8_01_269
+    400068: Archinteriors8_01_270
+    400070: Archinteriors8_01_271
+    400072: Archinteriors8_01_272
+    400074: Archinteriors8_01_273
+    400076: Archinteriors8_01_274
+    400078: Archinteriors8_01_275
+    400080: Archinteriors8_01_276
+    400082: Archinteriors8_01_277
+    400084: Archinteriors8_01_278
+    400086: Archinteriors8_01_279
+    400088: Archinteriors8_01_280
+    400090: Archinteriors8_01_281
+    400092: Archinteriors8_01_282
+    400094: Archinteriors8_01_283
+    400096: Archinteriors8_01_284
+    400098: Archinteriors8_01_285
+    400100: Archinteriors8_01_286
+    400102: Archinteriors8_01_287
+    400104: Archinteriors8_01_288
+    400106: Archinteriors8_01_289
+    400108: Archinteriors8_01_290
+    400110: Archinteriors8_01_291
+    400112: Archinteriors8_01_292
+    400114: Archinteriors8_01_293
+    400116: Archinteriors8_01_294
+    400118: Archinteriors8_01_295
+    400120: Archinteriors8_01_296
+    400122: Archinteriors8_01_297
+    400124: Archinteriors8_01_298
+    400126: Archinteriors8_01_299
+    400128: Archinteriors8_01_300
+    400130: Archinteriors8_01_301
+    400132: Archinteriors8_01_302
+    400134: Archinteriors8_01_303
+    400136: Archinteriors8_01_304
+    400138: Archinteriors8_01_305
+    400140: Archinteriors8_01_306
+    400142: Archinteriors8_01_307
+    400144: Archinteriors8_01_308
+    400146: Archinteriors8_01_309
+    400148: Archinteriors8_01_310
+    400150: Archinteriors8_01_311
+    400152: Archinteriors8_01_312
+    400154: Archinteriors8_01_313
+    400156: Archinteriors8_01_314
+    400158: Archinteriors8_01_315
+    400160: Box002
+    400162: Box006
+    400164: Box007
+    400166: Box008
+    400168: Box323462
+    400170: Box323465
+    400172: Box323466
+    400174: Box323467
+    400176: Box323468
+    400178: Box323469
+    400180: Box323470
+    400182: Box323471
+    400184: Box323472
+    400186: Box323473
+    400188: Box323474
+    400190: Box323475
+    400192: Box323476
+    400194: Box323477
+    400196: Box323478
+    400198: Box323479
+    400200: Box323480
+    400202: Box323481
+    400204: Box323482
+    400206: Box323483
+    400208: Box323484
+    400210: Box323485
+    400212: Box323508
+    400214: Box323509
+    400216: Box323510
+    400218: Box323511
+    400220: Box323512
+    400222: Box323513
+    400224: Box323514
+    400226: Box323515
+    400228: Box323516
+    400230: Box323517
+    400232: Box323518
+    400234: Box323519
+    400236: Box323520
+    400238: Box323521
+    400240: Box323522
+    400242: Box323524
+    400244: Box323525
+    400246: Box323526
+    400248: Box323527
+    400250: Box323528
+    400252: Box323529
+    400254: Box323530
+    400256: Box323531
+    400258: Box323532
+    400260: Box323533
+    400262: Box323534
+    400264: Box323535
+    400266: Box323536
+    400268: Box323537
+    400270: Box323538
+    400272: Box323539
+    400274: Box323540
+    400276: Box323541
+    400278: Box323542
+    400280: Box323543
+    400282: Box323544
+    400284: Box323545
+    400286: Box323546
+    400288: Box323547
+    400290: Box323548
+    400292: Box323549
+    400294: Box323550
+    400296: Box323551
+    400298: Box323552
+    400300: Box323553
+    400302: Box323555
+    400304: Box323557
+    400306: Box323558
+    400308: Box323560
+    400310: Group001
+    400312: Group004
+    400314: Line001
+    400316: Line002
+    400318: Line003
+    400320: Line004
+    400322: Line005
+    400324: Line007
+    400326: Line008
+    400328: Line009
+    400330: obj_008
+    400332: obj_009
+    400334: obj_01
+    400336: obj_010
+    400338: obj_011
+    400340: obj_012
+    400342: obj_013
+    400344: obj_014
+    400346: obj_02
+    400348: obj_03
+    400350: obj_04
+    400352: obj_05
+    400354: obj_06
+    400356: obj_07
+    400358: //RootNode
+    400360: Plane001
+    400362: Plane002
+    400364: Plane004
+    400366: Plane005
+    400368: Plane006
+    400370: tz 001
+    400372: tz 002
+    400374: VRayLight017
+    400376: Wall 003
+    400378: Wall 004
+    400380: Wall 005
+    400382: Wall 007
+    400384: Wall 008
+    400386: Wall 009
+    400388: Wall 011
+    400390: Wall 015
+    400392: Wall 018
+    400394: Wall 019
+    400396: Wall 020
+    400398: Wall 021
+    400400: Wall 022
+    2300000: 01j7 monit
+    2300002: 01j7 monit001
+    2300004: 01j7 tecla
+    2300006: 01j7 tecla001
+    2300008: 01j7-mous0
+    2300010: 01j7-mous001
+    2300012: 01j7-mouse
+    2300014: 01j7-mouse001
+    2300016: Archinteriors8_01_244
+    2300018: Archinteriors8_01_245
+    2300020: Archinteriors8_01_246
+    2300022: Archinteriors8_01_247
+    2300024: Archinteriors8_01_248
+    2300026: Archinteriors8_01_249
+    2300028: Archinteriors8_01_250
+    2300030: Archinteriors8_01_251
+    2300032: Archinteriors8_01_252
+    2300034: Archinteriors8_01_253
+    2300036: Archinteriors8_01_254
+    2300038: Archinteriors8_01_255
+    2300040: Archinteriors8_01_256
+    2300042: Archinteriors8_01_257
+    2300044: Archinteriors8_01_258
+    2300046: Archinteriors8_01_259
+    2300048: Archinteriors8_01_260
+    2300050: Archinteriors8_01_261
+    2300052: Archinteriors8_01_262
+    2300054: Archinteriors8_01_263
+    2300056: Archinteriors8_01_264
+    2300058: Archinteriors8_01_265
+    2300060: Archinteriors8_01_266
+    2300062: Archinteriors8_01_267
+    2300064: Archinteriors8_01_268
+    2300066: Archinteriors8_01_269
+    2300068: Archinteriors8_01_270
+    2300070: Archinteriors8_01_271
+    2300072: Archinteriors8_01_272
+    2300074: Archinteriors8_01_273
+    2300076: Archinteriors8_01_274
+    2300078: Archinteriors8_01_275
+    2300080: Archinteriors8_01_276
+    2300082: Archinteriors8_01_277
+    2300084: Archinteriors8_01_278
+    2300086: Archinteriors8_01_279
+    2300088: Archinteriors8_01_280
+    2300090: Archinteriors8_01_281
+    2300092: Archinteriors8_01_282
+    2300094: Archinteriors8_01_283
+    2300096: Archinteriors8_01_284
+    2300098: Archinteriors8_01_285
+    2300100: Archinteriors8_01_286
+    2300102: Archinteriors8_01_287
+    2300104: Archinteriors8_01_288
+    2300106: Archinteriors8_01_289
+    2300108: Archinteriors8_01_290
+    2300110: Archinteriors8_01_291
+    2300112: Archinteriors8_01_292
+    2300114: Archinteriors8_01_293
+    2300116: Archinteriors8_01_294
+    2300118: Archinteriors8_01_295
+    2300120: Archinteriors8_01_296
+    2300122: Archinteriors8_01_297
+    2300124: Archinteriors8_01_298
+    2300126: Archinteriors8_01_299
+    2300128: Archinteriors8_01_300
+    2300130: Archinteriors8_01_301
+    2300132: Archinteriors8_01_302
+    2300134: Archinteriors8_01_303
+    2300136: Archinteriors8_01_304
+    2300138: Archinteriors8_01_305
+    2300140: Archinteriors8_01_306
+    2300142: Archinteriors8_01_307
+    2300144: Archinteriors8_01_308
+    2300146: Archinteriors8_01_309
+    2300148: Archinteriors8_01_310
+    2300150: Archinteriors8_01_311
+    2300152: Archinteriors8_01_312
+    2300154: Archinteriors8_01_313
+    2300156: Archinteriors8_01_314
+    2300158: Archinteriors8_01_315
+    2300160: Box002
+    2300162: Box006
+    2300164: Box007
+    2300166: Box008
+    2300168: Box323462
+    2300170: Box323465
+    2300172: Box323466
+    2300174: Box323467
+    2300176: Box323468
+    2300178: Box323469
+    2300180: Box323470
+    2300182: Box323471
+    2300184: Box323472
+    2300186: Box323473
+    2300188: Box323474
+    2300190: Box323475
+    2300192: Box323476
+    2300194: Box323477
+    2300196: Box323478
+    2300198: Box323479
+    2300200: Box323480
+    2300202: Box323481
+    2300204: Box323482
+    2300206: Box323483
+    2300208: Box323484
+    2300210: Box323485
+    2300212: Box323508
+    2300214: Box323509
+    2300216: Box323510
+    2300218: Box323511
+    2300220: Box323512
+    2300222: Box323513
+    2300224: Box323514
+    2300226: Box323515
+    2300228: Box323516
+    2300230: Box323517
+    2300232: Box323518
+    2300234: Box323519
+    2300236: Box323520
+    2300238: Box323521
+    2300240: Box323522
+    2300242: Box323524
+    2300244: Box323525
+    2300246: Box323526
+    2300248: Box323527
+    2300250: Box323528
+    2300252: Box323529
+    2300254: Box323530
+    2300256: Box323531
+    2300258: Box323532
+    2300260: Box323533
+    2300262: Box323534
+    2300264: Box323535
+    2300266: Box323536
+    2300268: Box323537
+    2300270: Box323538
+    2300272: Box323539
+    2300274: Box323540
+    2300276: Box323541
+    2300278: Box323542
+    2300280: Box323543
+    2300282: Box323544
+    2300284: Box323545
+    2300286: Box323546
+    2300288: Box323547
+    2300290: Box323548
+    2300292: Box323549
+    2300294: Box323550
+    2300296: Box323551
+    2300298: Box323552
+    2300300: Box323553
+    2300302: Box323555
+    2300304: Box323557
+    2300306: Box323558
+    2300308: Box323560
+    2300310: Line001
+    2300312: Line002
+    2300314: Line003
+    2300316: Line004
+    2300318: Line005
+    2300320: Line007
+    2300322: Line008
+    2300324: Line009
+    2300326: obj_008
+    2300328: obj_009
+    2300330: obj_01
+    2300332: obj_010
+    2300334: obj_011
+    2300336: obj_012
+    2300338: obj_013
+    2300340: obj_014
+    2300342: obj_02
+    2300344: obj_03
+    2300346: obj_04
+    2300348: obj_05
+    2300350: obj_06
+    2300352: obj_07
+    2300354: Plane001
+    2300356: Plane002
+    2300358: Plane004
+    2300360: Plane005
+    2300362: Plane006
+    2300364: Wall 003
+    2300366: Wall 004
+    2300368: Wall 005
+    2300370: Wall 007
+    2300372: Wall 008
+    2300374: Wall 009
+    2300376: Wall 011
+    2300378: Wall 015
+    2300380: Wall 018
+    2300382: Wall 019
+    2300384: Wall 020
+    2300386: Wall 021
+    2300388: Wall 022
+    3300000: 01j7 monit
+    3300002: 01j7 monit001
+    3300004: 01j7 tecla
+    3300006: 01j7 tecla001
+    3300008: 01j7-mous0
+    3300010: 01j7-mous001
+    3300012: 01j7-mouse
+    3300014: 01j7-mouse001
+    3300016: Archinteriors8_01_244
+    3300018: Archinteriors8_01_245
+    3300020: Archinteriors8_01_246
+    3300022: Archinteriors8_01_247
+    3300024: Archinteriors8_01_248
+    3300026: Archinteriors8_01_249
+    3300028: Archinteriors8_01_250
+    3300030: Archinteriors8_01_251
+    3300032: Archinteriors8_01_252
+    3300034: Archinteriors8_01_253
+    3300036: Archinteriors8_01_254
+    3300038: Archinteriors8_01_255
+    3300040: Archinteriors8_01_256
+    3300042: Archinteriors8_01_257
+    3300044: Archinteriors8_01_258
+    3300046: Archinteriors8_01_259
+    3300048: Archinteriors8_01_260
+    3300050: Archinteriors8_01_261
+    3300052: Archinteriors8_01_262
+    3300054: Archinteriors8_01_263
+    3300056: Archinteriors8_01_264
+    3300058: Archinteriors8_01_265
+    3300060: Archinteriors8_01_266
+    3300062: Archinteriors8_01_267
+    3300064: Archinteriors8_01_268
+    3300066: Archinteriors8_01_269
+    3300068: Archinteriors8_01_270
+    3300070: Archinteriors8_01_271
+    3300072: Archinteriors8_01_272
+    3300074: Archinteriors8_01_273
+    3300076: Archinteriors8_01_274
+    3300078: Archinteriors8_01_275
+    3300080: Archinteriors8_01_276
+    3300082: Archinteriors8_01_277
+    3300084: Archinteriors8_01_278
+    3300086: Archinteriors8_01_279
+    3300088: Archinteriors8_01_280
+    3300090: Archinteriors8_01_281
+    3300092: Archinteriors8_01_282
+    3300094: Archinteriors8_01_283
+    3300096: Archinteriors8_01_284
+    3300098: Archinteriors8_01_285
+    3300100: Archinteriors8_01_286
+    3300102: Archinteriors8_01_287
+    3300104: Archinteriors8_01_288
+    3300106: Archinteriors8_01_289
+    3300108: Archinteriors8_01_290
+    3300110: Archinteriors8_01_291
+    3300112: Archinteriors8_01_292
+    3300114: Archinteriors8_01_293
+    3300116: Archinteriors8_01_294
+    3300118: Archinteriors8_01_295
+    3300120: Archinteriors8_01_296
+    3300122: Archinteriors8_01_297
+    3300124: Archinteriors8_01_298
+    3300126: Archinteriors8_01_299
+    3300128: Archinteriors8_01_300
+    3300130: Archinteriors8_01_301
+    3300132: Archinteriors8_01_302
+    3300134: Archinteriors8_01_303
+    3300136: Archinteriors8_01_304
+    3300138: Archinteriors8_01_305
+    3300140: Archinteriors8_01_306
+    3300142: Archinteriors8_01_307
+    3300144: Archinteriors8_01_308
+    3300146: Archinteriors8_01_309
+    3300148: Archinteriors8_01_310
+    3300150: Archinteriors8_01_311
+    3300152: Archinteriors8_01_312
+    3300154: Archinteriors8_01_313
+    3300156: Archinteriors8_01_314
+    3300158: Archinteriors8_01_315
+    3300160: Box002
+    3300162: Box006
+    3300164: Box007
+    3300166: Box008
+    3300168: Box323462
+    3300170: Box323465
+    3300172: Box323466
+    3300174: Box323467
+    3300176: Box323468
+    3300178: Box323469
+    3300180: Box323470
+    3300182: Box323471
+    3300184: Box323472
+    3300186: Box323473
+    3300188: Box323474
+    3300190: Box323475
+    3300192: Box323476
+    3300194: Box323477
+    3300196: Box323478
+    3300198: Box323479
+    3300200: Box323480
+    3300202: Box323481
+    3300204: Box323482
+    3300206: Box323483
+    3300208: Box323484
+    3300210: Box323485
+    3300212: Box323508
+    3300214: Box323509
+    3300216: Box323510
+    3300218: Box323511
+    3300220: Box323512
+    3300222: Box323513
+    3300224: Box323514
+    3300226: Box323515
+    3300228: Box323516
+    3300230: Box323517
+    3300232: Box323518
+    3300234: Box323519
+    3300236: Box323520
+    3300238: Box323521
+    3300240: Box323522
+    3300242: Box323524
+    3300244: Box323525
+    3300246: Box323526
+    3300248: Box323527
+    3300250: Box323528
+    3300252: Box323529
+    3300254: Box323530
+    3300256: Box323531
+    3300258: Box323532
+    3300260: Box323533
+    3300262: Box323534
+    3300264: Box323535
+    3300266: Box323536
+    3300268: Box323537
+    3300270: Box323538
+    3300272: Box323539
+    3300274: Box323540
+    3300276: Box323541
+    3300278: Box323542
+    3300280: Box323543
+    3300282: Box323544
+    3300284: Box323545
+    3300286: Box323546
+    3300288: Box323547
+    3300290: Box323548
+    3300292: Box323549
+    3300294: Box323550
+    3300296: Box323551
+    3300298: Box323552
+    3300300: Box323553
+    3300302: Box323555
+    3300304: Box323557
+    3300306: Box323558
+    3300308: Box323560
+    3300310: Line001
+    3300312: Line002
+    3300314: Line003
+    3300316: Line004
+    3300318: Line005
+    3300320: Line007
+    3300322: Line008
+    3300324: Line009
+    3300326: obj_008
+    3300328: obj_009
+    3300330: obj_01
+    3300332: obj_010
+    3300334: obj_011
+    3300336: obj_012
+    3300338: obj_013
+    3300340: obj_014
+    3300342: obj_02
+    3300344: obj_03
+    3300346: obj_04
+    3300348: obj_05
+    3300350: obj_06
+    3300352: obj_07
+    3300354: Plane001
+    3300356: Plane002
+    3300358: Plane004
+    3300360: Plane005
+    3300362: Plane006
+    3300364: Wall 003
+    3300366: Wall 004
+    3300368: Wall 005
+    3300370: Wall 007
+    3300372: Wall 008
+    3300374: Wall 009
+    3300376: Wall 011
+    3300378: Wall 015
+    3300380: Wall 018
+    3300382: Wall 019
+    3300384: Wall 020
+    3300386: Wall 021
+    3300388: Wall 022
+    4300000: Plane001
+    4300002: Wall 003
+    4300004: Wall 004
+    4300006: Wall 005
+    4300008: Wall 007
+    4300010: Wall 008
+    4300012: Wall 009
+    4300014: Wall 011
+    4300016: Line003
+    4300018: Line004
+    4300020: Box006
+    4300022: Box007
+    4300024: Line005
+    4300026: Box008
+    4300028: Wall 015
+    4300030: Box323462
+    4300032: Box323482
+    4300034: Box323483
+    4300036: Box323484
+    4300038: Box323485
+    4300040: Box323465
+    4300042: Box323466
+    4300044: Box323467
+    4300046: Box323468
+    4300048: Box323469
+    4300050: Box323470
+    4300052: Box323471
+    4300054: Box323472
+    4300056: Box323473
+    4300058: Box323474
+    4300060: Box323475
+    4300062: Box323476
+    4300064: Box323477
+    4300066: Box323478
+    4300068: Box323479
+    4300070: Box323480
+    4300072: Box323481
+    4300074: Archinteriors8_01_244
+    4300076: Archinteriors8_01_245
+    4300078: Archinteriors8_01_246
+    4300080: Archinteriors8_01_247
+    4300082: Archinteriors8_01_248
+    4300084: Archinteriors8_01_249
+    4300086: Archinteriors8_01_250
+    4300088: Archinteriors8_01_251
+    4300090: Box323528
+    4300092: Archinteriors8_01_266
+    4300094: Archinteriors8_01_253
+    4300096: Archinteriors8_01_254
+    4300098: Archinteriors8_01_255
+    4300100: Archinteriors8_01_256
+    4300102: Archinteriors8_01_257
+    4300104: Archinteriors8_01_258
+    4300106: Archinteriors8_01_259
+    4300108: Archinteriors8_01_260
+    4300110: Archinteriors8_01_261
+    4300112: Archinteriors8_01_262
+    4300114: Archinteriors8_01_263
+    4300116: Archinteriors8_01_264
+    4300118: Archinteriors8_01_265
+    4300120: Archinteriors8_01_279
+    4300122: Archinteriors8_01_267
+    4300124: Archinteriors8_01_268
+    4300126: Archinteriors8_01_269
+    4300128: Archinteriors8_01_270
+    4300130: Archinteriors8_01_271
+    4300132: Archinteriors8_01_272
+    4300134: Archinteriors8_01_273
+    4300136: Archinteriors8_01_278
+    4300138: Archinteriors8_01_277
+    4300140: Archinteriors8_01_276
+    4300142: Archinteriors8_01_274
+    4300144: Archinteriors8_01_252
+    4300146: Archinteriors8_01_275
+    4300148: Line007
+    4300150: Line008
+    4300152: Line009
+    4300154: 01j7 tecla
+    4300156: 01j7 monit
+    4300158: 01j7-mous0
+    4300160: 01j7-mouse
+    4300162: obj_01
+    4300164: obj_07
+    4300166: obj_06
+    4300168: obj_05
+    4300170: obj_04
+    4300172: obj_03
+    4300174: obj_02
+    4300176: Wall 018
+    4300178: Box323508
+    4300180: Box323509
+    4300182: Box323510
+    4300184: Box323511
+    4300186: Box323512
+    4300188: Box323513
+    4300190: Box323514
+    4300192: Box323515
+    4300194: Box323519
+    4300196: Box323520
+    4300198: Box323521
+    4300200: Box323522
+    4300202: Box323524
+    4300204: Box323525
+    4300206: Box323526
+    4300208: Box323527
+    4300210: Wall 019
+    4300212: Wall 020
+    4300214: Box323529
+    4300216: Box323530
+    4300218: Box323531
+    4300220: Box323532
+    4300222: Box323533
+    4300224: Box323534
+    4300226: Box323535
+    4300228: Box323536
+    4300230: Box323537
+    4300232: Box323538
+    4300234: Box323539
+    4300236: Box323540
+    4300238: Box323541
+    4300240: Box323542
+    4300242: Box323543
+    4300244: Box323544
+    4300246: Box323545
+    4300248: Box323546
+    4300250: Box323547
+    4300252: Box323548
+    4300254: Box323549
+    4300256: Box323550
+    4300258: Archinteriors8_01_280
+    4300260: Archinteriors8_01_281
+    4300262: Archinteriors8_01_282
+    4300264: Archinteriors8_01_283
+    4300266: Archinteriors8_01_284
+    4300268: Archinteriors8_01_285
+    4300270: Archinteriors8_01_286
+    4300272: Archinteriors8_01_287
+    4300274: Box323551
+    4300276: obj_008
+    4300278: 01j7 tecla001
+    4300280: 01j7 monit001
+    4300282: 01j7-mous001
+    4300284: 01j7-mouse001
+    4300286: obj_009
+    4300288: obj_010
+    4300290: obj_011
+    4300292: obj_012
+    4300294: obj_013
+    4300296: obj_014
+    4300298: Archinteriors8_01_288
+    4300300: Archinteriors8_01_289
+    4300302: Archinteriors8_01_290
+    4300304: Archinteriors8_01_291
+    4300306: Archinteriors8_01_292
+    4300308: Archinteriors8_01_293
+    4300310: Archinteriors8_01_294
+    4300312: Archinteriors8_01_295
+    4300314: Archinteriors8_01_296
+    4300316: Archinteriors8_01_297
+    4300318: Archinteriors8_01_298
+    4300320: Archinteriors8_01_299
+    4300322: Archinteriors8_01_300
+    4300324: Archinteriors8_01_301
+    4300326: Archinteriors8_01_302
+    4300328: Archinteriors8_01_303
+    4300330: Archinteriors8_01_304
+    4300332: Archinteriors8_01_305
+    4300334: Archinteriors8_01_306
+    4300336: Archinteriors8_01_307
+    4300338: Archinteriors8_01_308
+    4300340: Archinteriors8_01_309
+    4300342: Archinteriors8_01_310
+    4300344: Archinteriors8_01_311
+    4300346: Archinteriors8_01_312
+    4300348: Archinteriors8_01_313
+    4300350: Archinteriors8_01_314
+    4300352: Archinteriors8_01_315
+    4300354: Wall 021
+    4300356: Wall 022
+    4300358: Box323552
+    4300360: Box323553
+    4300362: Box323555
+    4300364: Box323557
+    4300366: Box323558
+    4300368: Box323560
+    4300370: Box323517
+    4300372: Box323518
+    4300374: Box323516
+    4300376: Line001
+    4300378: Box002
+    4300380: Line002
+    4300382: Plane002
+    4300384: Plane004
+    4300386: Plane005
+    4300388: Plane006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
